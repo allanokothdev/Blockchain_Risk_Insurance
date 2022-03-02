@@ -1,0 +1,26 @@
+{
+  "name": "blockchain_risk_insurance",
+  "version": "1.0.0",
+  "description": "Blockhain Insurance",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanokothdev/Blockchain-Risk-Insurance.git"
+  },
+  "keywords": [
+    "Agriculture",
+    "Insurance"
+  ],
+  "author": "Allan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allanokothdev/Blockchain-Risk-Insurance/issues"
+  },
+  "homepage": "https://github.com/allanokothdev/Blockchain-Risk-Insurance#readme"
+}
